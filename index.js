@@ -1,36 +1,35 @@
-//console.log("Hello World");
-//var olaMundo = "Hello World";
-//console.log(olaMundo);
+console.log("Hello World");
+var olaMundo = "Hello World";
+console.log(olaMundo);
 
 // Operadores
 
-//let a = 10;
-//const b = "10";
+let a = 10;
+const b = "10";
 
-//console.log(a === b)
+console.log(a === b)
 
-//let cor = "vermelho";
+let cor = "vermelho";
 
 //if e else
-//if(cor == "verde"){
-//    console.log("Siga")
-//}else if(cor == "vermelho"){
-//    console.log("Pare")
-//}else if(cor == "amarelo"){
-//    console.log("atencao")
-//}
+if(cor == "verde"){
+    console.log("Siga")
+}else if(cor == "vermelho"){
+else if(cor == "amarelo"){
+    console.log("atencao")
+}
 
 // for
-//let num = 5;
-//for(i = 0; i < 11; i++){
-//    console.log(i + "X" + num + "=" + (i*num))
-//}
+let num = 5;
+for(i = 0; i < 11; i++){
+    console.log(i + "X" + num + "=" + (i*num))
+}
 
 //function
-//function valor(){
-//    valor = document.getElementById("valor").value;
-//    alert(valor);
-//}
+function valor(){
+    valor = document.getElementById("valor").value;
+    alert(valor);
+}
 
 
 function compararIgual(){
