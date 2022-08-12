@@ -15,6 +15,8 @@ let cor = "vermelho";
 if(cor == "verde"){
     console.log("Siga")
 }else if(cor == "vermelho"){
+    onsole.log("Pare")
+}
 else if(cor == "amarelo"){
     console.log("atencao")
 }
